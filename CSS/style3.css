@@ -1,0 +1,597 @@
+/*Header Start*/
+.no-gutters {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#logo-part {
+    padding: 2%;
+    border-right: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
+    box-shadow: 0px 2px #CCCCCC;
+}
+
+.img1 {
+    margin-left: 20px;
+}
+
+#action-bar {
+    background-color: #FAFAFA;
+    height: 55px;
+    margin-right: -35px;
+    margin-left: -30px;
+}
+
+.social-icons {
+    padding-top: 10%;
+}
+
+.fab {
+    color: #CCCCCC;
+    margin-right: 5%
+}
+
+.fab:hover {
+    color: #FE4646;
+}
+
+#rightactionbar {}
+
+.right-action {}
+
+.rightside {
+    float: right;
+    padding-top: 1.5%;
+    color: #CCCCCC;
+    font-size: 14px;
+    font-family: NunitoSans-Regular;
+}
+
+.rightside > li {
+    list-style: none;
+    float: left;
+}
+
+.details {
+    padding-left: 15px;
+}
+
+#nava {
+    margin-right: -35px;
+    margin-left: -30px;
+}
+
+#navigation {}
+
+.navbar-inverse {
+    background-color: white;
+    border-bottom: 1px solid #ECECEC;
+    box-shadow: 0px 2px #CCCCCC;
+    height: 51px;
+    border-color: white;
+}
+
+.navbar-nav {}
+
+.navbar-inverse .navbar-nav > .active > a {
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: white;
+}
+
+#navfont > li > a {
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#navfont > li > a:hover {
+    color: #FE4646;
+}
+
+.navbar-nav > li {}
+
+.navbar-right {}
+
+#find {
+    background-color: #FE4646;
+    font-size: 19px;
+}
+
+#find > li > a {
+    color: white;
+    font-weight: 800;
+}
+
+#find > li:hover {
+    color: black;
+}
+
+/*Header End*/
+/*Language Programs Start*/
+.languagePrograms {
+    margin-top: 4%;
+}
+
+.languageProgramsTitle {
+    font-size: 40px;
+    line-height: 65px;
+    letter-spacing: -0.56px;
+    font-weight: 700;
+}
+
+.languageProgramsDetails {
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -0.48px;
+    color: #8c8b8b;
+    margin-bottom: 5%;
+}
+
+#firstProPic {}
+
+#secProPic {}
+
+#thirdProPic {}
+
+#offerImgOne {
+    width: 350px;
+    height: 420px;
+}
+
+#offerImgTwo {
+    width: 350px;
+    height: 420px;
+}
+
+#offerImgThree {
+    width: 350px;
+    height: 420px;
+}
+
+.firstProPicTitle {
+    font-size: 26px;
+    line-height: 28px;
+    font-weight: 600;
+    margin-top: 10%;
+}
+
+.firstProPicDetails {
+    color: #8c8b8b;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.firstProPicDate {
+    font-size: 14px;
+
+    font-weight: 600;
+}
+
+.firstProPicTime {
+    font-size: 14px;
+
+    letter-spacing: -0.33px;
+    color: #8c8b8b;
+}
+
+/*Language Programs End*/
+/*Image with Content Start*/
+.ImgContent {
+    margin-top: 6%;
+}
+
+.CourseProgramsTitle {
+    font-size: 40px;
+    line-height: 65px;
+    letter-spacing: -0.56px;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-bottom: 2%;
+}
+
+.rowNumOne {}
+
+.firstRowColOne {}
+
+#picOne {
+    height: 313px;
+    width: 255px;
+}
+
+.firstRowColTwo {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.imgContentTitle {
+    font-size: 26px;
+    line-height: 28px;
+    font-weight: 700;
+    width: 60%;
+}
+
+.imgContentDetails {
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.33px;
+    color: #777474;
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+
+.imgContentDate {
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 600;
+}
+
+.imgContentTime {
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.33px;
+    color: #777474;
+}
+
+.firstRowColThree {}
+
+#picTwo {
+    height: 313px;
+    width: 255px;
+}
+
+.firstRowColFour {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.rowNumTwo {
+    margin-top: 4%;
+}
+
+.secRowColOne {}
+
+#picThree {
+    height: 313px;
+    width: 255px;
+}
+
+.secRowColTwo {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.secRowColThree {}
+
+#picFour {
+    height: 313px;
+    width: 255px;
+}
+
+.secRowColFour {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.rowNumThree {
+    margin-top: 4%;
+}
+
+.thirdRowColOne {}
+
+#picFive {
+    height: 313px;
+    width: 255px;
+}
+
+.thirdRowColTwo {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.thirdRowColThree {}
+
+#picSix {
+    height: 313px;
+    width: 255px;
+}
+
+.thirdRowColFour {
+    width: 80%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#LoadMoreCourse {
+    margin-top: 8%;
+}
+
+#ImgContentBtn {
+    height: 50px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/*Image with Content End*/
+/*Footer Start*/
+* {
+    box-sizing: border-box;
+}
+
+.example {}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 75%;
+
+}
+
+form.example button {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background: #FE4646;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example button:hover {
+    background: #d42020;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.footer {
+    background-color: #1D252D;
+    margin-top: 7%;
+}
+
+.stayUpdated {
+        padding-top: 11%;
+}
+
+.stayUP {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.75px;
+    line-height: 35px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.getSocial {
+    padding-top: 23%;
+}
+
+.getSCL {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.75px;
+    line-height: 35px;
+    margin-bottom: 40px;
+    color: white;
+    margin-left: 75px;
+}
+
+.iconset {}
+
+.groupIcon {
+    float: left;
+    margin-left: 32px;
+}
+
+.groupIcon > li {
+    float: left;
+    display: block;
+}
+
+.ffacebook {}
+
+.ftwitter {}
+
+.fyoutube {}
+
+.fskype {}
+
+.finsta {}
+
+#ffb {}
+
+.iconsizingone {
+    height: 50px;
+    padding: 4px 17px 15px 17px;
+    width: 50px;
+    color: white;
+    background-color: #3054A4;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.iconsizingone:hover {
+    background-color: #223a6f;
+}
+
+.iconsizingtwo {
+    height: 50px;
+    padding: 4px 11px 15px 11px;
+    width: 50px;
+    color: white;
+    background-color: #00ACF7;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.iconsizingtwo:hover {
+    background-color: #037eb3;
+}
+
+.iconsizingthree {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 10px 15px 10px;
+    width: 60px;
+    color: #fff;
+    background-color: #F2382C;
+    font-size: 25px;
+}
+
+.iconsizingthree:hover {
+    background-color: #92150d;
+}
+
+.iconsizingfour {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 12px 15px 14px;
+    width: 60px;
+    color: #fff;
+    background-color: #00AEEB;
+    font-size: 25px;
+}
+
+.iconsizingfour:hover {
+    background-color: #0583af;
+}
+
+.iconsizingfive {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 13px 15px 13px;
+    width: 60px;
+    color: #fff;
+    background-color: #FB245C;
+    font-size: 25px;
+}
+
+.iconsizingfive:hover {
+    background-color: #cc093c;
+}
+
+#ffb {
+    color: white;
+}
+
+#ftw {
+    color: white;
+}
+
+#fyt {
+    color: white;
+}
+
+#fsk {
+    color: white;
+}
+
+#fin {
+    color: white;
+}
+#footerDownPart{
+    
+}
+.fCompany{
+        color: white;
+    padding-top: 60px;
+        padding-bottom: 30%;
+}
+.fAdmissions{
+        color: white;
+    padding-top: 60px;
+}
+.fStudents{
+        color: white;
+    padding-top: 60px;
+}
+.fQuickLink{
+        color: white;
+    padding-top: 60px;
+}
+.fComp{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fAdmi{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fStud{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fQuli{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 13%;
+}
+.fTitle{
+        font-size: 14px;
+    line-height: 35px;
+    color: #928e8e;
+}
+#fFirstButton{
+    
+}
+#fSecButton{
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+#fThirdButton{
+    
+}
+#btnleft{
+    text-align: left;
+}
+#btnlefttwo{
+    text-align: left;
+}
+#btnleftthree{
+    text-align: left;
+}
+#footerCopyPart{
+        padding: 50px 0px 50px 0px;
+    border-top: 1px solid black;
+}
+.footerImg{
+    
+}
+.fooimg{
+    
+}
+.footerCopyText{
+    
+}
+.fooText{
+        text-align: right;
+    color: #696565;
+    font-size: 16px;
+
+}

@@ -1,0 +1,755 @@
+.no-gutters {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#logo-part {
+    padding: 2%;
+    border-right: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
+    box-shadow: 0px 2px #CCCCCC;
+}
+
+.img1 {
+    margin-left: 20px;
+}
+
+#action-bar {
+    background-color: #FAFAFA;
+    height: 55px;
+    margin-right: -35px;
+    margin-left: -30px;
+}
+
+.social-icons {
+    padding-top: 10%;
+}
+
+.fab {
+    color: #CCCCCC;
+    margin-right: 5%
+}
+
+.fab:hover {
+    color: #FE4646;
+}
+
+#rightactionbar {}
+
+.right-action {}
+
+.rightside {
+    float: right;
+    padding-top: 1.5%;
+    color: #CCCCCC;
+    font-size: 14px;
+    font-family: NunitoSans-Regular;
+}
+
+.rightside > li {
+    list-style: none;
+    float: left;
+}
+
+.details {
+    padding-left: 15px;
+}
+
+#nava {
+    margin-right: -35px;
+    margin-left: -30px;
+}
+
+#navigation {}
+
+.navbar-inverse {
+    background-color: white;
+    border-bottom: 1px solid #ECECEC;
+    box-shadow: 0px 2px #CCCCCC;
+    height: 51px;
+    border-color: white;
+}
+
+.navbar-nav {}
+
+.navbar-inverse .navbar-nav > .active > a {
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav > .open > a:hover {
+    background-color: white;
+}
+
+#navfont > li > a {
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#navfont > li > a:hover {
+    color: #FE4646;
+}
+
+.navbar-nav > li {}
+
+.navbar-right {}
+
+#find {
+    background-color: #FE4646;
+    font-size: 19px;
+}
+
+#find > li > a {
+    color: white;
+    font-weight: 800;
+}
+
+#find > li:hover {
+    color: black;
+}
+
+/*Client Info part Start*/
+.clientInfo {}
+
+.addmission {
+    margin: 60px 0px 40px 20px;
+}
+
+.addpart {
+    font-size: 40px;
+    letter-spacing: -0.56px;
+    font-weight: 800;
+}
+
+.addparaPart {
+    font-size: 20px;
+    letter-spacing: -0.48px;
+}
+
+.innerform {
+    background-color: #FAFAFA;
+    padding: 25px;
+}
+
+.formtitle {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.media {}
+
+#yuliaImg {
+    height: 87px;
+    width: 87px;
+}
+
+#imgInfo {
+    padding: 15px;
+}
+
+.media-heading {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.imgProf {
+    color: #1D252D;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 0;
+    border-bottom: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    outline: none;
+    background-color: #FAFAFA;
+}
+
+input[type=email],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 0;
+    border-bottom: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    outline: none;
+    background-color: #FAFAFA;
+}
+
+
+input[type=submit] {
+    width: 100%;
+    background-color: #FE4646;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #dc4141;
+}
+
+.outerform {
+    width: 80%;
+}
+
+#ninteenBorder {
+    border-right: 1px solid #c1bcbc;
+}
+
+.ninteen {
+    font-size: 60px;
+    line-height: 32px;
+    color: #FE4646;
+    font-weight: 800;
+    margin-bottom: 30%;
+}
+
+.outerParaTwo {}
+
+.formFour {
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 700;
+}
+
+.formFive {
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: -0.38px;
+    color: #868484;
+}
+
+.outerParaTwoA {
+    margin-bottom: 15%;
+}
+
+.outerParaTwoB {}
+
+.outerParaThree {
+    margin-bottom: 15%;
+}
+
+.outerParaThreeA {}
+
+.admissionPara {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.38px;
+    color: #868484;
+    margin: 20px 0px 0px 0px;
+}
+
+.wealth {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.Affordable {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.Convenient {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.Locations {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.Quality {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+#tickicon {
+    color: #868484;
+    font-size: 14px;
+    margin-right: 3%;
+}
+
+#ticktwoicon {
+    color: #868484;
+    font-size: 14px;
+    margin-right: 3%;
+}
+
+#tickthreeicon {
+    color: #868484;
+    font-size: 14px;
+    margin-right: 3%;
+}
+
+#tickfouricon {
+    color: #868484;
+    font-size: 14px;
+    margin-right: 3%;
+}
+
+#tickfiveicon {
+    color: #868484;
+    font-size: 14px;
+    margin-right: 3%;
+}
+
+#lefttick {
+    margin-left: -15px;
+}
+
+#righttick {}
+
+/*Client Info part End*/
+/*Apply part Start*/
+.howCanIApply {
+    margin-top: 6%;
+}
+
+.applyPart {
+    width: 85%;
+    margin-top: 15%;
+}
+
+.ques {
+    font-size: 26px;
+    line-height: 35px;
+    font-weight: 700;
+    letter-spacing: -0.65px;
+}
+
+.applyDetails {
+    color: #868484;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.33px;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.orList {
+    font-size: 16px;
+    line-height: 32px;
+    margin-left: -20px;
+}
+
+.listDetails {}
+
+.applyImgPart {}
+
+#goodhuman {}
+
+/*Apply part End*/
+/*Graphic Icon part Start*/
+.graphicPart {
+    margin-top: 6%;
+}
+
+#firstGraphicIcon {}
+
+#secGraphicIcon {}
+
+#thirdGraphicIcon {}
+
+#forthGraphicIcon {}
+
+#graIconOne {
+    height: 60px;
+}
+
+#graIconTwo {
+    height: 60px;
+}
+
+#graIconThree {
+    height: 60px;
+}
+
+#graIconFour {
+    height: 60px;
+}
+
+.graTitle {
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: -0.48px;
+    font-weight: 600;
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.graDetails {
+    color: #868484;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.33px;
+    width: 80%;
+}
+
+/*Graphic Icon part End*/
+/*Satisfied Learners part Start*/
+.SatisfiedLearners {
+    margin-top: 5%;
+}
+
+.satiName {
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: -0.75px;
+    line-height: 35px;
+    margin-bottom: 55px;
+    margin-left: 15px;
+}
+
+#rightQutation {
+    padding: 0px 40px 0px 40px
+}
+
+.firstclient {}
+
+.clientReview {
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.5px;
+    font-style: italic;
+}
+
+.clientDetailsOne {
+    margin: 20px 0px 40px 0px;
+}
+
+.clientName {
+    font-size: 16px;
+
+    font-weight: 600;
+}
+
+.clientproff {
+    font-size: 14px;
+
+    color: #949393;
+}
+
+.secondclient {}
+
+.secclientReview {
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.5px;
+    font-style: italic;
+    margin-top: 25%;
+    padding-top: 5%;
+    border-top: 1px solid #d6d4d4
+}
+
+#firstclientimg {
+    margin-top: 20%;
+}
+
+#secclientimg {
+    margin-top: 20%;
+}
+
+.clientDetailsTwo {
+    margin-top: 7%;
+}
+
+#testimonialsButtonOne {
+    margin-top: 30%;
+}
+
+#testibtnOne {
+    width: 100%;
+    height: 60px;
+}
+
+/*Satisfied Learners part End*/
+/*Footer Start*/
+* {
+    box-sizing: border-box;
+}
+
+.example {}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 75%;
+    margin-top: -0.1px;
+}
+
+form.example button {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background: #FE4646;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example button:hover {
+    background: #d42020;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.footer {
+    background-color: #1D252D;
+    margin-top: 7%;
+}
+
+.stayUpdated {
+        padding-top: 11%;
+}
+
+.stayUP {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.75px;
+    line-height: 35px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.getSocial {
+    padding-top: 23%;
+}
+
+.getSCL {
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -0.75px;
+    line-height: 35px;
+    margin-bottom: 40px;
+    color: white;
+    margin-left: 75px;
+}
+
+.iconset {}
+
+.groupIcon {
+    float: left;
+    margin-left: 32px;
+}
+
+.groupIcon > li {
+    float: left;
+    display: block;
+}
+
+.ffacebook {}
+
+.ftwitter {}
+
+.fyoutube {}
+
+.fskype {}
+
+.finsta {}
+
+#ffb {}
+
+.iconsizingone {
+    height: 50px;
+    padding: 4px 17px 15px 17px;
+    width: 50px;
+    color: white;
+    background-color: #3054A4;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.iconsizingone:hover {
+    background-color: #223a6f;
+}
+
+.iconsizingtwo {
+    height: 50px;
+    padding: 4px 11px 15px 11px;
+    width: 50px;
+    color: white;
+    background-color: #00ACF7;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.iconsizingtwo:hover {
+    background-color: #037eb3;
+}
+
+.iconsizingthree {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 10px 15px 10px;
+    width: 60px;
+    color: #fff;
+    background-color: #F2382C;
+    font-size: 25px;
+}
+
+.iconsizingthree:hover {
+    background-color: #92150d;
+}
+
+.iconsizingfour {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 12px 15px 14px;
+    width: 60px;
+    color: #fff;
+    background-color: #00AEEB;
+    font-size: 25px;
+}
+
+.iconsizingfour:hover {
+    background-color: #0583af;
+}
+
+.iconsizingfive {
+    height: 60px;
+    margin: 5px;
+    padding: 4px 13px 15px 13px;
+    width: 60px;
+    color: #fff;
+    background-color: #FB245C;
+    font-size: 25px;
+}
+
+.iconsizingfive:hover {
+    background-color: #cc093c;
+}
+
+#ffb {
+    color: white;
+}
+
+#ftw {
+    color: white;
+}
+
+#fyt {
+    color: white;
+}
+
+#fsk {
+    color: white;
+}
+
+#fin {
+    color: white;
+}
+#footerDownPart{
+    
+}
+.fCompany{
+        color: white;
+    padding-top: 60px;
+        padding-bottom: 30%;
+}
+.fAdmissions{
+        color: white;
+    padding-top: 60px;
+}
+.fStudents{
+        color: white;
+    padding-top: 60px;
+}
+.fQuickLink{
+        color: white;
+    padding-top: 60px;
+}
+.fComp{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fAdmi{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fStud{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+.fQuli{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    padding-bottom: 13%;
+}
+.fTitle{
+        font-size: 14px;
+    line-height: 35px;
+    color: #928e8e;
+}
+#fFirstButton{
+    
+}
+#fSecButton{
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+#fThirdButton{
+    
+}
+#btnleft{
+    text-align: left;
+}
+#btnlefttwo{
+    text-align: left;
+}
+#btnleftthree{
+    text-align: left;
+}
+#footerCopyPart{
+        padding: 50px 0px 50px 0px;
+    border-top: 1px solid black;
+}
+.footerImg{
+    
+}
+.fooimg{
+    
+}
+.footerCopyText{
+    
+}
+.fooText{
+        text-align: right;
+    color: #696565;
+    font-size: 16px;
+
+}
